@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>        // Include the Wi-Fi library
 
-const char *ssid = "name_acces_point"; // The name of the Wi-Fi network that will be created
+const char *ssid = "name_acces_point_any"; // The name of the Wi-Fi network that will be created
 const char *password = "no_matter";   // The password required to connect to it, leave blank for an open network
 
 void setup() {
